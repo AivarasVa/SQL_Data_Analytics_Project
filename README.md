@@ -32,8 +32,8 @@ To run this project locally, follow these steps:
 | 09_performance_analysis.sql    | Performance focused queries |
 | 10_data_segmentation.sql       | Segmentation and grouping logic |
 | 11_part_to_whole_analysis.sql  | Proportions & contribution analysis |
-| 12_report_customers.sql        | Customer reports |
-| 13_report_products.sql         | Product reports |
+| 12_report_customers.sql        | Customer report |
+| 13_report_products.sql         | Product report |
 
 ---
 
